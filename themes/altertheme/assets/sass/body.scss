@@ -1,0 +1,30 @@
+@import "colors";
+
+body {
+  height: 100vh;
+  margin: auto;
+  background-color: $background-color;
+  font-family: 'Roboto', sans-serif;
+  color: $text-color;
+}
+
+body a {
+  color: $text-highlight-light-color;
+  text-decoration: none;
+}
+
+body a:visited {
+  color: $text-highlight-light-color;
+}
+
+.wrapper {
+  display: grid;
+  min-height: 100%;
+  grid-template-rows: auto 1fr auto;
+  margin: 0 auto;
+}
+
+.content .main {
+  margin: 0 auto;
+  max-width: 1150px;
+}

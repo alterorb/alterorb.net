@@ -1,0 +1,6 @@
+baseURL = "https://alterorb/"
+languageCode = "en-us"
+title = "AlterOrb"
+theme = "altertheme"
+
+paginate = 10
