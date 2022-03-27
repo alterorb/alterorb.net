@@ -11,7 +11,7 @@ It solely focuses on the single-player experience that were available in the ori
 
 Prebuilt binaries for Windows and Debian based linux systems are available at the GitHub releases page.
 
-If you're gonna use the cross platform version (the jar file), make sure you have at least Java 11 installed, you can
+If you're going to use the cross platform version (the jar file), make sure you have at least Java 17 installed, you can
 download Java from the [Adoptium Project site](https://adoptium.net/).
 
 Download the latest launcher from the [GitHub releases page](https://github.com/alterorb/launcher/releases).
