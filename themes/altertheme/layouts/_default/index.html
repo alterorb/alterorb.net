@@ -1,58 +1,5 @@
 {{define "main"}}
 <div class="main">
-    <section>
-        <h2>About</h2>
-        <p>
-            AlterOrb is a project that aims to emulate all the original features that were available in the original
-            FunOrb games.
-            It solely focuses on the single-player games that were available.
-        </p>
-    </section>
-
-    <section>
-        <h2>Downloading the Launcher</h2>
-        <p>
-            Before downloading, make sure you have at least Java 11 installed, you can download Java from the
-            <a href="https://adoptium.net/" target="_parent">Adoptium Site</a>.
-        </p>
-        <p>
-            The latest launcher version can always be downloaded from the
-            <a href="https://github.com/alterorb/launcher/releases" target="_parent">GitHub releases page</a>.
-        </p>
-    </section>
-
-    <section>
-        <h2>Creating an account</h2>
-        <p>
-            You create an account by attempting to logging in with an unique username & password, upon successful login,
-            your account has been created.
-        </p>
-    </section>
-
-    <section>
-        <h2>But I'm looking for the multiplayer games!</h2>
-        <p>
-            Sadly AlterOrb does not support any of the multiplayer games. But the most popular ones have community
-            remakes, below you can find a direct link to a few. You can find more info about other projects in the
-            FunOrb discord linked in the section below.
-        </p>
-        <ul>
-            <li><a href="https://www.arcanists2.com/">Arcanists 2</a></li>
-        </ul>
-    </section>
-
-    <section>
-        <h2>Getting help</h2>
-        <p>
-            If you’re having any trouble downloading or using the launcher you can ask for help in the following
-            channels:
-        </p>
-
-        <ul>
-            <li>The <a href="https://discordapp.com/invite/MGfDrDf">FunOrb discord</a> server</li>
-            <li>The <a href="https://discordapp.com/invite/a4qUynM">FunOrb Central discord</a> server</li>
-            <li>The irc channel #alterorb at <a href="https://qchat.rizon.net/?channels=alterorb">rizon.net</a></li>
-        </ul>
-    </section>
+    {{.Content}}
 </div>
 {{end}}
