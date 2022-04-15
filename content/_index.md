@@ -70,7 +70,7 @@ If you’re having any trouble downloading or using the launcher you can ask for
 | Transmogrify                   |    {{< compat-badge level="full" >}}     |
 | Vertigo 2                      |   {{< compat-badge level="partial" >}}   |
 | Virogrid                       |   {{< compat-badge level="partial" >}}   |
-| Void Hunters                   | {{< compat-badge level="unsupported" >}} |
+| Void Hunters                   | {{< compat-badge level="partial" >}} |
 | Wizard Run                     |    {{< compat-badge level="full" >}}     |
 | Zombie Dawn Multiplayer        |   {{< compat-badge level="partial" >}}   |
 | Zombie Dawn                    |    {{< compat-badge level="full" >}}     |
