@@ -31,6 +31,10 @@ If you’re having any trouble downloading or using the launcher you can ask for
 
 ## Compatibility List
 
+A game with **full** support signifies that all original features are available, including login, HiScores, Achievements and level progression.
+
+A game with **partial** support signifies that some features are not available, such as login.
+
 | Game                           |                  Status                  |
 |--------------------------------|:----------------------------------------:|
 | Ace of Skies                   |    {{< compat-badge level="full" >}}     |
