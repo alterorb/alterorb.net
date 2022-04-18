@@ -41,6 +41,7 @@ If you’re having any trouble downloading or using the launcher you can ask for
 | Brick-à-Brac                   |   {{< compat-badge level="partial" >}}   |
 | Chess                          |   {{< compat-badge level="partial" >}}   |
 | Crazy Crystals                 |    {{< compat-badge level="full" >}}     |
+| Deko Bloko                     |   {{< compat-badge level="partial" >}}   |
 | Dr. Phlogiston Saves The Earth |    {{< compat-badge level="full" >}}     |
 | Dungeon Assault                |   {{< compat-badge level="partial" >}}   |
 | Escape Vector                  |   {{< compat-badge level="partial" >}}   |
