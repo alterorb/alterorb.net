@@ -18,8 +18,7 @@ Download the latest launcher from the [GitHub releases page](https://github.com/
 
 ## Creating an account
 
-You create an account by attempting to logging in with a unique username & password, upon successful login, your account
-has been created.
+You create an account by using the signup form available inside the games.
 
 ## Getting help
 
