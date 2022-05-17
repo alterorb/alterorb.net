@@ -24,9 +24,14 @@
   border-color: adjust-color(#1ebc61, $alpha: -0.2);
 }
 
-.badge-compat-partial {
+.badge-compat-no-mp {
   color: adjust-color(#f9b32f, $alpha: -0.2);
   border-color: adjust-color(#f9b32f, $alpha: -0.2);
+}
+
+.badge-compat-basic {
+  color: adjust-color(#e74c3c, $alpha: -0.2);
+  border-color: adjust-color(#e74c3c, $alpha: -0.2);
 }
 
 .badge-compat-unsupported {
