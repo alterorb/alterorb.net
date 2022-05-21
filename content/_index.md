@@ -73,6 +73,7 @@ A game with **basic** support signifies that the game is launchable but no other
 | TetraLink                      | {{< compat-badge level="no-mp" >}} |
 | The Track Controller           | {{< compat-badge level="full" >}}  |
 | Thirty-Six Card Trick          | {{< compat-badge level="full" >}}  |
+| Tomb Racer                     | {{< compat-badge level="basic" >}} |
 | Tor Challenge                  | {{< compat-badge level="full" >}}  |
 | Torquing!                      | {{< compat-badge level="basic" >}} |
 | Transmogrify                   | {{< compat-badge level="full" >}}  |
