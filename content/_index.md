@@ -84,3 +84,6 @@ A game with **basic** support signifies that the game is launchable but no other
 | Zombie Dawn                    | {{< compat-badge level="full" >}}  |
 | Zombie Dawn Multiplayer        | {{< compat-badge level="basic" >}} |
 
+## Patreon
+
+AlterOrb does have a [patreon here](https://www.patreon.com/hex_agon). All patreons are appreciated, but they're not required to keep AlterOrb running. 
