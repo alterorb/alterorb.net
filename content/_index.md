@@ -25,7 +25,6 @@ You create an account by using the signup form available inside the games.
 If you’re having any trouble downloading or using the launcher you can ask for help in the following channels:
 
 * [FunOrb Discord](https://discordapp.com/invite/MGfDrDf) server
-* [FunOrb Central Discord](https://discordapp.com/invite/a4qUynM) server
 * The irc channel, #alterorb, at [rizon.net](https://qchat.rizon.net/?channels=alterorb)
 
 ## Compatibility List
